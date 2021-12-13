@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Ziggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziggymoens)](https://github.com/anuraghazra/github-readme-stats)
+[![Ziggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziggymoens)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziggymoens&layout=compact)]
+
 
 
 <!--
