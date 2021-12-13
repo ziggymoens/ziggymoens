@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Ziggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziggymoens)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ziggymoens/ziggymoens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
