@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![Ziggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziggymoens)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziggymoens&layout=compact)
 
 
 
 <!--
+![Ziggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziggymoens)
+
 **ziggymoens/ziggymoens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
